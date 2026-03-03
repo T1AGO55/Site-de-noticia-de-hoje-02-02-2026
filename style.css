@@ -6,3 +6,11 @@ body{
     margin: 0 auto;
     width: 1200px;
 }
+
+.tamanhofoto{
+    width: 800px;
+}
+
+.alturafoto{
+    height: 800px;
+}
