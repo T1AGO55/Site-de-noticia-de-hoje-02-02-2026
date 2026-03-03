@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+}
+.foto{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+}
